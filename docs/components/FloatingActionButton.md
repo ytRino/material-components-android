@@ -108,7 +108,7 @@ ripple, and motion changes.
 ### Attributes
 
 Feature    | Relevant attributes
-:--------- | :-------------------------------
+---------- | -------------------------------
 Icon       | `app:srcCompat`
            | `app:tint`
            | `app:maxImageSize`
